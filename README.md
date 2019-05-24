@@ -26,3 +26,6 @@ npm run lint
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
+
+### Screenshots
+!["Screenshot of two users chatting"](https://github.com/LenoxJung/chatty-app/blob/master/docs/Screenshot.png)
